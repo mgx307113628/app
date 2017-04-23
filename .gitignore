@@ -1,0 +1,13 @@
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+*.swp
+*.swo
+
+*.db
+
+tmp/
