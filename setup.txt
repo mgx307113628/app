@@ -1,0 +1,11 @@
+pip install Flask
+
+#pip install sqlalchemy
+pip install Flask-SQLAlchemy
+pip install sqlalchemy-migrate
+
+#pip install WTForms
+pip install flask-wtf
+
+pip install flask-login
+pip install Flask-OpenID
